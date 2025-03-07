@@ -14,7 +14,7 @@ const Contact = () => {
   const socialLinks = [
     { icon: <GitHubIcon />, url: 'https://github.com/noormohammad07', label: 'GitHub' },
     { icon: <LinkedInIcon />, url: 'https://www.linkedin.com/in/noor-mohammad-89851425b/', label: 'LinkedIn' },
-    { icon: <EmailIcon />, url: 'mailto:your.email@example.com', label: 'Email' }
+    { icon: <EmailIcon />, url: 'mailto:noormohammad@example.com', label: 'Email' }
   ];
 
   return (
