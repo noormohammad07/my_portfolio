@@ -1,6 +1,6 @@
 # My Portfolio
 
-A modern, responsive portfolio website built with React, Material UI, and Framer Motion.
+This is my personal portfolio website built with React and Vite.
 
 ## Features
 
@@ -21,8 +21,7 @@ A modern, responsive portfolio website built with React, Material UI, and Framer
 - GitHub Pages
 
 ## Deployment
-
-This portfolio is deployed using GitHub Pages. Visit the live site at: [https://noormohammad07.github.io/my_portfolio](https://noormohammad07.github.io/my_portfolio)
+This website is deployed on GitHub Pages and can be accessed at: https://noormohammad07.github.io/my_portfolio/
 
 ## Running Locally
 
